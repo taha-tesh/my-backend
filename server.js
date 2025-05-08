@@ -12,7 +12,7 @@ const dbConfig = {
   user: 'web_project_db_jb6p_user',
   host: 'dpg-d0eern49c44c738158v0-a.oregon-postgres.render.com',
   database: 'web_project_db_jb6p',
-  password: 'YXtt8WpMN0dH2nMBakass1fiLX44xu10',
+  password: 'YXtt8WpMNOdH2nMBakass1fiLX44xu10',
   port: 5432,
   ssl: {
     rejectUnauthorized: false
